@@ -2,8 +2,11 @@ import React from "react";
 
 const Card = (props) => {
   return (
-    <div onClick={props.click}>
-      <h1>{props.name}</h1>
+    <div className="card" onClick={props.click}>
+      <div className="imagebox">
+        <img src={props.img} alt="" />
+      </div>
+      <div className="cardtext">{props.name}</div>
     </div>
   );
 };
