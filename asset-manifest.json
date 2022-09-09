@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Kartohan/memory-card-TOP-project/static/css/main.050e6fe4.css",
+    "main.js": "/Kartohan/memory-card-TOP-project/static/js/main.7def853f.js",
+    "static/media/background.jpg": "/Kartohan/memory-card-TOP-project/static/media/background.03b1e08012296c3a32ff.jpg",
+    "static/media/CashewCream.ttf": "/Kartohan/memory-card-TOP-project/static/media/CashewCream.e94cfb5a6d927f44ed79.ttf",
+    "static/media/Stanberry.ttf": "/Kartohan/memory-card-TOP-project/static/media/Stanberry.9524c688a7d72dfd70e8.ttf",
+    "static/media/Rick.ttf": "/Kartohan/memory-card-TOP-project/static/media/Rick.c3d1dfc692e3547fed16.ttf",
+    "static/media/Cousin Nicky.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Cousin Nicky.438f2aaccbd792b6cc7d.jpeg",
+    "static/media/Hamurai.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Hamurai.7fc6e972ca0793f3e92f.jpeg",
+    "static/media/Tinkles.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Tinkles.385adf06149724084ed4.jpeg",
+    "static/media/Uncle Steve.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Uncle Steve.0ec658e38b15f6c9da11.jpeg",
+    "static/media/Amish Cyborg.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Amish Cyborg.a247b380009ec2f9dd5e.jpeg",
+    "static/media/Mr Beauregard.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Mr Beauregard.84a44d0510f92d8a7d5a.jpeg",
+    "static/media/Phorography Raptor.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Phorography Raptor.0134529263b463aee642.jpeg",
+    "static/media/Frankenstein.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Frankenstein.c6622b1032803a240d25.jpeg",
+    "static/media/Ghoit in a Jar.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Ghoit in a Jar.6252dc782372074dd207.jpeg",
+    "static/media/Reverse Giraffe.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Reverse Giraffe.432ec19409f922ff3110.jpeg",
+    "static/media/Sleepy Gary.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Sleepy Gary.e65e6f1693e4c35057a5.jpeg",
+    "static/media/Pencilvester.jpeg": "/Kartohan/memory-card-TOP-project/static/media/Pencilvester.a013108e86261cd0938d.jpeg",
+    "index.html": "/Kartohan/memory-card-TOP-project/index.html",
+    "main.050e6fe4.css.map": "/Kartohan/memory-card-TOP-project/static/css/main.050e6fe4.css.map",
+    "main.7def853f.js.map": "/Kartohan/memory-card-TOP-project/static/js/main.7def853f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.050e6fe4.css",
+    "static/js/main.7def853f.js"
+  ]
+}
