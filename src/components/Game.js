@@ -74,8 +74,9 @@ const Game = () => {
       setPlayerArr(() => {
         return [];
       });
-      if (bestScore < score) {
+      if (bestScore || localStorage.getItem("RM_Best_Score") < score) {
         setBestScore(() => score);
+        localStorage.setItem("RM_Best_Score", score);
       }
       setScore(() => 0);
     } else {
@@ -84,6 +85,8 @@ const Game = () => {
       });
       setScore((prevState) => prevState + 1);
     }
+    console.log(e.target);
+    console.log(localStorage.getItem("RM_Best_Score"));
   }
 
   useEffect(() => {
@@ -96,8 +99,18 @@ const Game = () => {
 
   return (
     <div>
-      <div>Score: {score}</div>
-      <div>Best Score: {bestScore}</div>
+      <h1 className="title">Rick and Morty</h1>
+      <h1 className="subtitle">Memory Card Game</h1>
+      <div className="scorebox">
+        <div className="score">Score: {score}</div>
+        <div className="best-score">
+          Best Score: {localStorage.getItem("RM_Best_Score") || bestScore}
+        </div>
+      </div>
+      <div className="author">
+        {" "}
+        Created by <a href="https://github.com/Kartohan">Kartohan</a>{" "}
+      </div>
       <div className="cardboard">
         {gameArray.map((item) => (
           <Card
