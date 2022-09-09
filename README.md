@@ -1,6 +1,6 @@
 # memory-card-TOP-project
 
-After a short break, I'm back! The task seemed difficult to me, but in the end it turned out to be easier than I thought. I had a few questions that the guys on Discord helped me solve. I really enjoyed to do this task! ( Don't judge me for the quality of the pictures on the cards, I really was looking for normal quality :( )
+After a short break, I'm back! The task seemed difficult to me, but in the end it turned out to be easier than I thought. I had a few questions that the guys on Discord helped me solve. I really enjoyed to do this task! Don't judge me for the quality of the pictures on the cards, I really was looking for normal quality :(
 
 What was done:
 
@@ -10,7 +10,7 @@ What was done:
 4. This time I styled the game and added some backgrounds, fonts, etc.
 
 What I used:
-React, CSS, Hooks of course and maybe NPM. Hmm... Looks like that's all.
+React, CSS, Hooks of course and NPM. Hmm... Looks like that's all.
 
 Fonts i used:
 
