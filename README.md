@@ -20,3 +20,5 @@ Fonts i used:
 
 Background by [Kenny Eliason](https://unsplash.com/@neonbrand) from Unsplash.
 And all charachters from [Rick and Morty Fandom](https://rickandmorty.fandom.com/wiki/Total_Rickall)
+
+Link - https://kartohan.github.io/memory-card-TOP-project/
