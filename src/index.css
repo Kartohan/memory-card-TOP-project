@@ -39,7 +39,7 @@ code {
 }
 
 .card {
-  width: 300px;
+  width: 290px;
   text-align: center;
   font-size: 1.8em;
   padding-bottom: 10px;
@@ -67,7 +67,7 @@ code {
 
 .imgCard {
   pointer-events: none;
-  width: 280px;
+  width: 270px;
   padding: 10px;
 }
 
