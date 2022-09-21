@@ -69,6 +69,7 @@ code {
   pointer-events: none;
   width: 270px;
   padding: 10px;
+  border-radius: 23px;
 }
 
 .title {
@@ -92,19 +93,18 @@ code {
 
 .score {
   color: #a8f2ff;
-  font-size: 2.5em;
   font-family: "Stanberry";
 }
 
 .best-score {
   color: #a8f2ff;
-  font-size: 2.5em;
   font-family: "Stanberry";
 }
 
 .scorebox {
   display: flex;
   justify-content: space-around;
+  font-size: 2.5em;
 }
 
 .author {
@@ -120,4 +120,41 @@ code {
 
 .author a:visited {
   color: #84fffa;
+}
+
+@media screen and (max-width: 930px) {
+  .card {
+    width: 180px;
+    font-size: 1.4em;
+  }
+  .imgCard {
+    border-radius: 20px;
+    width: 140px;
+  }
+  .author {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .subtitle {
+    font-size: 2.4em;
+  }
+  .scorebox {
+    font-size: 2em;
+  }
+  .title {
+    font-size: 3.3em;
+  }
+  .card {
+    width: 110px;
+    font-size: 0.9em;
+  }
+  .imgCard {
+    border-radius: 15px;
+    width: 90px;
+  }
+  .author {
+    display: none;
+  }
 }

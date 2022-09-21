@@ -8,6 +8,7 @@ What was done:
 2. Display score and best score.
 3. The best score is saved and you won't lose it after page restart.
 4. This time I styled the game and added some backgrounds, fonts, etc.
+5. Added mobile support (21.09.2022)
 
 What I used:
 React, CSS, Hooks of course and NPM. Hmm... Looks like that's all.
