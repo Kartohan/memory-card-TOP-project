@@ -23,3 +23,6 @@ Background by [Kenny Eliason](https://unsplash.com/@neonbrand) from Unsplash.
 And all charachters from [Rick and Morty Fandom](https://rickandmorty.fandom.com/wiki/Total_Rickall)
 
 Link - https://kartohan.github.io/memory-card-TOP-project/
+
+Preview
+![github-memory-card-TOP-project](https://user-images.githubusercontent.com/99285514/205495844-6b700a4d-c93b-4925-bb3b-f87052bcd498.png)
