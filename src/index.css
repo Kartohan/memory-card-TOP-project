@@ -43,18 +43,15 @@ code {
   text-align: center;
   font-size: 1.8em;
   padding-bottom: 10px;
-  background: linear-gradient(
-    24deg,
-    rgb(205 205 205) 0%,
-    rgb(255 255 255) 100%
-  );
+  background: linear-gradient(180deg, #000000, #001d24);
   font-family: "Stanberry";
   border-radius: 10px;
   transition: 0.15s;
+  border: 1px solid skyblue;
 }
 
 .card:hover {
-  box-shadow: 0px 0px 8px 2px yellow;
+  box-shadow: 0px 0px 3px 2px yellow;
   transform: scale(1.03);
 }
 
@@ -63,6 +60,7 @@ code {
   flex-wrap: wrap;
   gap: 15px;
   justify-content: center;
+  margin-bottom: 15px;
 }
 
 .imgCard {
@@ -72,12 +70,16 @@ code {
   border-radius: 23px;
 }
 
+.card > p {
+  margin: 0;
+  padding: 0;
+  color: skyblue;
+}
+
 .title {
   color: #84fffa;
   font-family: "Rick";
   text-align: center;
-  box-shadow: 0px 0px 0px 0px #e9ff35;
-  filter: drop-shadow(1px 1px 2px #e9ff35);
   font-size: 4em;
   margin: 25px;
 }
@@ -85,8 +87,6 @@ code {
   color: #84fffa;
   font-family: "Cashew";
   text-align: center;
-  box-shadow: 0px 0px 0px 0px #e9ff35;
-  filter: drop-shadow(1px 1px 2px #e9ff35);
   font-size: 3em;
   margin: 15px;
 }
