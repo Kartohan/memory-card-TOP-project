@@ -25,4 +25,4 @@ And all charachters from [Rick and Morty Fandom](https://rickandmorty.fandom.com
 Link - https://kartohan.github.io/memory-card-TOP-project/
 
 Preview
-![github-memory-card-TOP-project](https://user-images.githubusercontent.com/99285514/205495844-6b700a4d-c93b-4925-bb3b-f87052bcd498.png)
+![screencapture-localhost-3000-memory-card-TOP-project-2022-12-26-11_53_27](https://user-images.githubusercontent.com/99285514/209534973-7b668a95-ea60-4afb-99a4-bd621e196fa5.png)
